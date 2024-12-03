@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import ProductList from './product'
-
+import ProductList from './product';
 function App() {
   return (
     <div className="App">
